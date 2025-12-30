@@ -4,7 +4,7 @@
 import os, shutil
 
 FILE_MAPPING = {
-    'Documents': ['.pdf', '.txt', '.html', '.css', '.js', '.py', '.pbix', '.csv', '.epub', '.docx', '.xlsx', '.ipynb', '.json', '.md', '.yaml', '.log', '.ppix'],
+    'Documents': ['.pdf', '.txt', '.html', '.css', '.js', '.py', '.pbix', '.csv', '.epub', '.docx', '.xlsx', '.ipynb', '.json', '.md', '.yaml', '.log', '.pptx'],
     'Images': ['.jpeg', '.jpg', '.png', '.gif', '.svg', '.jfif', '.webp', '.ico', '.heic', '.bmp'],
     'Videos': ['.mp4', '.mkv', '.avi', '.mov', '.wmv', '.3gp', '.flv'],
     'Music': ['.mp3', '.wav', '.aac', '.flac', '.ogg', '.m4a'],
